@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    js: {}
+  core:
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "b90be9db-da60-4d4a-a5d8-277a1da507e9"
+  "language-babel":
+    autoIndentJSX: true
+  welcome:
+    showOnStartup: false
+".js.jsx.react.source":
+  editor:
+    showIndentGuide: false
+    softWrap: true
+".js.source":
+  editor:
+    showIndentGuide: false
